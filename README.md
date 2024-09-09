@@ -1,1 +1,1 @@
-# Hofstra_financial_analysis
+# Hofstra Financial Analysis
